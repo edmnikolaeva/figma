@@ -6,4 +6,6 @@ The prototypes demonstrate:
 - Screens and user interface flows, including transitions between screens  
 - Interactive navigation to explore the UI experience  
 
-👉 [View Figma Prototypes](https://www.figma.com/design/qoXc85GFJbn8pPUBH3f5BV/Дизайн-система-Stets?node-id=4-581&p=f)
+---
+
+### 👉 [View Figma Prototypes](https://www.figma.com/design/qoXc85GFJbn8pPUBH3f5BV/Дизайн-система-Stets?node-id=4-581&p=f)
