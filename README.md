@@ -28,4 +28,5 @@ The prototypes demonstrate:
 
 ---
 
-🔗 Related Artifact 👉 [ISD](https://github.com/edmnikolaeva/ISD)
+### 🔗 Related Artifact
+- 👉 [ISD](https://github.com/edmnikolaeva/ISD)
