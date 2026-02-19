@@ -17,7 +17,7 @@ This repository presents interactive low-fidelity UI prototypes developed as par
 
 ---
 
-### Main artifact 👉 [View Figma Prototypes](https://www.figma.com/design/qoXc85GFJbn8pPUBH3f5BV/Дизайн-система-Stets?node-id=4-581&p=f)
+### Main artifact 👉 [Figma Prototypes](https://www.figma.com/design/qoXc85GFJbn8pPUBH3f5BV/Дизайн-система-Stets?node-id=4-581&p=f)
 
 ---
 
