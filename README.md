@@ -1,4 +1,4 @@
-# UI Prototypes – System Analysis Examples
+# UI Prototypes 
 
 <table>
 <tr>
